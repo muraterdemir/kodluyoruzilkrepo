@@ -19,6 +19,7 @@ Linux için:
 # Contributing
 
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
+![gitrepo](https://user-images.githubusercontent.com/48916488/196188262-059df92d-d2f8-48f8-8731-28f7ea971ef7.JPG)
 
 # Licence
 
